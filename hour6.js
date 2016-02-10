@@ -1,9 +1,9 @@
 var teams = [
-  ["Unicorns", 10],
-  ["Muffinerss", 9],
-  ["No Name", 11],
-  ["Team Faze", 6],
-  ["The Potatoes", 13]
+  ["Unicorns", 17],
+  ["Muffinerss", 14],
+  ["No Name", 23],
+  ["Team Faze", 10],
+  ["The Potatoes", 23]
 ];
 
 //blank array to fill
