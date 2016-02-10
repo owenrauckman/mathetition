@@ -1,10 +1,10 @@
 var teams = [
-  ["No Name", 11],
-  ["Burls", 7],
-  ["Batman", 10],
-  ["Do Math", 8],
-  ["Wobbling Penguins", 10],
-  ["Deez Bubbles", 8]
+  ["No Name", 17],
+  ["Burls", 12],
+  ["Batman", 13],
+  ["Do Math", 12],
+  ["Wobbling Penguins", 17],
+  ["Deez Bubbles", 19]
 ];
 
 //blank array to fill
