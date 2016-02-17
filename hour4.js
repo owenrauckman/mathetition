@@ -1,7 +1,7 @@
 var teams = [
   ["Cabages", 5],
   ["No Name", 13],
-  ["Scrub McMuffins", 27],
+  ["Scrub McMuffins", 31],
   ["Blanks", 35],
   ["Jags", 26],
   ["Try Hards", 21]
